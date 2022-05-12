@@ -35,3 +35,11 @@ You need 3 paramater.
 ```json
 {"collection":"meebits","tokenId":4323,"ginoaPrice":7.41,"isSale":false,"salePrice":0,"success":true}
 ```
+| Name      | Type |
+| --------- | -----:|
+| collection  | String(slug) |
+|   tokenId   |   Integer |
+| ginoaPrice      |    Float |
+| isSale      |    Boolean |
+| salePrice      |    Integer |
+| success      |    Boolean |
